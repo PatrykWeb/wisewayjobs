@@ -14,6 +14,7 @@ class CategoryJobsController < ApplicationController
         end
     end
 
+
     def category_jobs_params
         params.require(:category_jobs).permit(:category_name, :category_description)
     end

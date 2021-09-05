@@ -3,7 +3,11 @@
     <h1 class = "font-extrabold text-5xl text-center">Wybierz swoją branże<span class = "text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-pink-400 to-red-600">!</span></h1>
     <p class = "font-light text-center">Znajdziesz u nas <span class = "text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-pink-400 to-red-600">100000</span>ofert.</p>
   </div>
-  <div class = "flex justify-center pt-8">
+  <div class = 'xl:pl-72'>
+  <%= render partial: 'job_offers/search' %>
+  </div>
+  <div class = "flex justify-center pt-8 ">
+  
     <%= render partial: 'category_jobs/index'%>
   </div>
 </div>
