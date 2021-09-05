@@ -566,3 +566,2135 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 9ms (Views: 8.2ms | Allocations: 8379)
 
 
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:29:49 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.4ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 237)
+  Rendered layout layouts/application.html.erb (Duration: 44.9ms | Allocations: 8789)
+Completed 200 OK in 72ms (Views: 68.9ms | Allocations: 10218)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:29:51 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 94)
+  Rendered layout layouts/application.html.erb (Duration: 23.3ms | Allocations: 7895)
+Completed 200 OK in 26ms (Views: 25.4ms | Allocations: 8384)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:30:02 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.2ms | Allocations: 244)
+  Rendered layout layouts/application.html.erb (Duration: 13.2ms | Allocations: 8796)
+Completed 200 OK in 19ms (Views: 18.3ms | Allocations: 10208)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:30:19 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 245)
+  Rendered layout layouts/application.html.erb (Duration: 15.4ms | Allocations: 8798)
+Completed 200 OK in 20ms (Views: 19.0ms | Allocations: 10256)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:31:10 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 245)
+  Rendered layout layouts/application.html.erb (Duration: 43.0ms | Allocations: 8803)
+Completed 200 OK in 49ms (Views: 48.2ms | Allocations: 10261)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:31:31 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 244)
+  Rendered layout layouts/application.html.erb (Duration: 19.8ms | Allocations: 8796)
+Completed 200 OK in 24ms (Views: 22.4ms | Allocations: 10254)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:32:20 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 245)
+  Rendered layout layouts/application.html.erb (Duration: 18.3ms | Allocations: 8797)
+Completed 200 OK in 24ms (Views: 23.1ms | Allocations: 10255)
+
+
+Started GET "/home/index" for 127.0.0.1 at 2021-09-04 20:32:35 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 245)
+  Rendered layout layouts/application.html.erb (Duration: 11.2ms | Allocations: 8797)
+Completed 200 OK in 14ms (Views: 13.3ms | Allocations: 10255)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:34:27 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.1ms | Allocations: 552)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 6.1ms | Allocations: 2026)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 100)
+  Rendered layout layouts/application.html.erb (Duration: 40.4ms | Allocations: 10132)
+Completed 200 OK in 46ms (Views: 44.6ms | Allocations: 11967)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:34:28 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.6ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 31.6ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 57.2ms | Allocations: 8881)
+Completed 200 OK in 85ms (Views: 82.5ms | Allocations: 9632)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:34:29 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.8ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 6.4ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 21.7ms | Allocations: 8876)
+Completed 200 OK in 23ms (Views: 22.5ms | Allocations: 9540)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:34:30 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 21.9ms | Allocations: 8876)
+Completed 200 OK in 23ms (Views: 22.3ms | Allocations: 9540)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:34:32 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.4ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 8.5ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 27.7ms | Allocations: 8876)
+Completed 200 OK in 33ms (Views: 31.6ms | Allocations: 9540)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:34:33 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 20.2ms | Allocations: 8876)
+Completed 200 OK in 24ms (Views: 22.7ms | Allocations: 9540)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:34:34 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.9ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 27.2ms | Allocations: 8876)
+Completed 200 OK in 33ms (Views: 29.4ms | Allocations: 9540)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 20:35:32 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 99)
+  Rendered layout layouts/application.html.erb (Duration: 14.9ms | Allocations: 7900)
+Completed 200 OK in 17ms (Views: 16.7ms | Allocations: 8344)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:35:34 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.5ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 5.4ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 32.8ms | Allocations: 8876)
+Completed 200 OK in 37ms (Views: 35.4ms | Allocations: 9540)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:35:37 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 1.6ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 10.8ms | Allocations: 8876)
+Completed 200 OK in 12ms (Views: 11.2ms | Allocations: 9540)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:35:37 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.4ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 14.6ms | Allocations: 8876)
+Completed 200 OK in 16ms (Views: 15.6ms | Allocations: 9540)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:36:06 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 1.8ms | Allocations: 552)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 4.8ms | Allocations: 2026)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 212)
+  Rendered layout layouts/application.html.erb (Duration: 25.7ms | Allocations: 10623)
+Completed 200 OK in 31ms (Views: 29.8ms | Allocations: 12605)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2021-09-04 20:36:08 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.4ms | Allocations: 228)
+  Rendered devise/shared/_links.html.erb (Duration: 0.2ms | Allocations: 115)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 5.3ms | Allocations: 1901)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 100)
+  Rendered layout layouts/application.html.erb (Duration: 17.5ms | Allocations: 9997)
+Completed 200 OK in 21ms (Views: 20.1ms | Allocations: 11394)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:36:09 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.3ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.3ms | Allocations: 1019)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 18.5ms | Allocations: 8880)
+Completed 200 OK in 31ms (Views: 26.8ms | Allocations: 9661)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2021-09-04 20:36:10 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_error_messages.html.erb (Duration: 0.2ms | Allocations: 43)
+  Rendered devise/shared/_links.html.erb (Duration: 2.1ms | Allocations: 105)
+  Rendered devise/registrations/new.html.erb within layouts/application (Duration: 26.2ms | Allocations: 1066)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 47.3ms | Allocations: 8927)
+Completed 200 OK in 72ms (Views: 56.0ms | Allocations: 9526)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:36:33 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.4ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 15.5ms | Allocations: 8898)
+Completed 200 OK in 17ms (Views: 16.7ms | Allocations: 9562)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 20:36:54 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (Duration: 0.4ms | Allocations: 153)
+  Rendered devise/sessions/new.html.erb within layouts/application (Duration: 3.0ms | Allocations: 1015)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 86)
+  Rendered layout layouts/application.html.erb (Duration: 17.5ms | Allocations: 8876)
+Completed 200 OK in 20ms (Views: 18.5ms | Allocations: 9540)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:04:20 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 152)
+  Rendered layout layouts/application.html.erb (Duration: 14.6ms | Allocations: 8704)
+Completed 200 OK in 18ms (Views: 17.1ms | Allocations: 10127)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:04:25 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 29.1ms | Allocations: 7840)
+Completed 200 OK in 35ms (Views: 33.5ms | Allocations: 8336)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:04:28 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 25.9ms | Allocations: 7840)
+Completed 200 OK in 27ms (Views: 26.3ms | Allocations: 8286)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:12:53 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 152)
+  Rendered layout layouts/application.html.erb (Duration: 41.1ms | Allocations: 8709)
+Completed 200 OK in 45ms (Views: 44.0ms | Allocations: 10124)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:17:38 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 241)
+  Rendered layout layouts/application.html.erb (Duration: 44.6ms | Allocations: 8793)
+Completed 200 OK in 59ms (Views: 55.8ms | Allocations: 10255)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 21:17:42 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (4.6ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 34ms (ActiveRecord: 20.8ms | Allocations: 5202)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:17:42 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 77)
+  Rendered layout layouts/application.html.erb (Duration: 16.4ms | Allocations: 7883)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms | Allocations: 8367)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:17:46 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 77)
+  Rendered layout layouts/application.html.erb (Duration: 17.7ms | Allocations: 7879)
+Completed 200 OK in 19ms (Views: 18.5ms | ActiveRecord: 0.0ms | Allocations: 8331)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:19:07 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 141)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 284)
+  Rendered layout layouts/application.html.erb (Duration: 22.0ms | Allocations: 8841)
+Completed 200 OK in 26ms (Views: 25.2ms | ActiveRecord: 0.0ms | Allocations: 10263)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 21:19:09 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (1.8ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 5ms (ActiveRecord: 1.8ms | Allocations: 1859)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:19:09 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 37.7ms | Allocations: 7903)
+Completed 200 OK in 43ms (Views: 42.2ms | ActiveRecord: 0.0ms | Allocations: 8387)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:19:11 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 10.6ms | Allocations: 7899)
+Completed 200 OK in 12ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 8351)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 21:30:37 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 42ms (ActiveRecord: 18.7ms | Allocations: 4936)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:30:37 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 8.6ms | Allocations: 7901)
+Completed 200 OK in 11ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 8368)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:30:38 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 98)
+  Rendered layout layouts/application.html.erb (Duration: 16.9ms | Allocations: 7899)
+Completed 200 OK in 18ms (Views: 17.4ms | ActiveRecord: 0.0ms | Allocations: 8351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:32:24 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 144)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.2ms | Allocations: 329)
+  Rendered layout layouts/application.html.erb (Duration: 44.9ms | Allocations: 8899)
+Completed 200 OK in 48ms (Views: 46.9ms | ActiveRecord: 0.0ms | Allocations: 10328)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2021-09-04 21:32:42 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms | Allocations: 1862)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:32:42 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 20.6ms | Allocations: 7938)
+Completed 200 OK in 27ms (Views: 26.7ms | ActiveRecord: 0.0ms | Allocations: 8422)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-04 21:32:44 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 5ms (ActiveRecord: 0.7ms | Allocations: 1611)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:32:44 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 42.0ms | Allocations: 7930)
+Completed 200 OK in 44ms (Views: 43.8ms | ActiveRecord: 0.0ms | Allocations: 8397)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:42:35 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 200)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 31.1ms | Allocations: 8937)
+Completed 200 OK in 40ms (Views: 38.4ms | Allocations: 10352)
+
+
+Started GET "/classic-utility-jacket.jpg" for 127.0.0.1 at 2021-09-04 21:42:35 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/classic-utility-jacket.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:43:20 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 200)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.5ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 26.6ms | Allocations: 8936)
+Completed 200 OK in 30ms (Views: 28.9ms | Allocations: 10364)
+
+
+Started GET "/classic-utility-jacket.jpg" for 127.0.0.1 at 2021-09-04 21:43:20 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/classic-utility-jacket.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:43:46 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 200)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 2.3ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 73.8ms | Allocations: 8937)
+Completed 200 OK in 85ms (Views: 81.8ms | Allocations: 10363)
+
+
+Started GET "/classic-utility-jacket.jpg" for 127.0.0.1 at 2021-09-04 21:43:46 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/classic-utility-jacket.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:49:43 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 200)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.4ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 28.0ms | Allocations: 8936)
+Completed 200 OK in 33ms (Views: 31.7ms | Allocations: 10361)
+
+
+Started GET "/classic-utility-jacket.jpg" for 127.0.0.1 at 2021-09-04 21:49:43 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/classic-utility-jacket.jpg"):
+  
+Started GET "/" for 127.0.0.1 at 2021-09-04 21:58:07 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 143)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 27.8ms | Allocations: 8879)
+Completed 200 OK in 33ms (Views: 31.3ms | Allocations: 10310)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 22:38:36 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 149)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.5ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 18.4ms | Allocations: 8886)
+Completed 200 OK in 22ms (Views: 20.8ms | Allocations: 10349)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 22:41:51 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 149)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 22.8ms | Allocations: 8886)
+Completed 200 OK in 45ms (Views: 41.2ms | Allocations: 10348)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 22:42:23 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 149)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 11.1ms | Allocations: 8889)
+Completed 200 OK in 13ms (Views: 12.4ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 22:42:25 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 17.5ms | Allocations: 7948)
+Completed 200 OK in 20ms (Views: 19.3ms | Allocations: 8441)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 22:44:15 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 149)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 13.0ms | Allocations: 8886)
+Completed 200 OK in 18ms (Views: 16.6ms | Allocations: 10301)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 22:45:26 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 149)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 2.4ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 49.7ms | Allocations: 8885)
+Completed 200 OK in 75ms (Views: 65.2ms | Allocations: 10347)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 22:49:44 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 149)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 2.3ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 40.3ms | Allocations: 8885)
+Completed 200 OK in 49ms (Views: 46.4ms | Allocations: 10347)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:00:56 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 156)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 26.8ms | Allocations: 8907)
+Completed 200 OK in 36ms (Views: 32.3ms | Allocations: 10376)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:01:34 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 14.6ms | Allocations: 151)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 54.3ms | Allocations: 8897)
+Completed 200 OK in 76ms (Views: 65.9ms | Allocations: 10360)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:13:21 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 156)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.9ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 48.4ms | Allocations: 8896)
+Completed 200 OK in 55ms (Views: 53.6ms | Allocations: 10358)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:13:40 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 9.3ms | Allocations: 8889)
+Completed 200 OK in 12ms (Views: 10.8ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:14:48 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 12.4ms | Allocations: 8889)
+Completed 200 OK in 16ms (Views: 14.9ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:15:39 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.9ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 39.2ms | Allocations: 8889)
+Completed 200 OK in 45ms (Views: 44.2ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:15:55 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 4.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 33.8ms | Allocations: 8889)
+Completed 200 OK in 42ms (Views: 40.6ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:21:26 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 2.0ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 21.1ms | Allocations: 8889)
+Completed 200 OK in 26ms (Views: 24.8ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:22:34 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 326)
+  Rendered layout layouts/application.html.erb (Duration: 12.5ms | Allocations: 8890)
+Completed 200 OK in 15ms (Views: 14.2ms | Allocations: 10352)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:23:30 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 15.0ms | Allocations: 8890)
+Completed 200 OK in 20ms (Views: 19.3ms | Allocations: 10353)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:24:19 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 17.0ms | Allocations: 8889)
+Completed 200 OK in 21ms (Views: 19.6ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:38:36 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 2.0ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 27.2ms | Allocations: 8890)
+Completed 200 OK in 31ms (Views: 30.6ms | Allocations: 10352)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:42:52 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 153)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 19.7ms | Allocations: 8889)
+Completed 200 OK in 27ms (Views: 26.0ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:49:30 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 154)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 36.2ms | Allocations: 8890)
+Completed 200 OK in 48ms (Views: 45.8ms | Allocations: 10352)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:50:03 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 154)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 30.0ms | Allocations: 8890)
+Completed 200 OK in 35ms (Views: 34.4ms | Allocations: 10352)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:52:43 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 154)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 17.3ms | Allocations: 8890)
+Completed 200 OK in 21ms (Views: 20.5ms | Allocations: 10352)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:52:45 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 17.2ms | Allocations: 7923)
+Completed 200 OK in 20ms (Views: 19.8ms | Allocations: 8416)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:54:19 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 155)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.9ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 13.8ms | Allocations: 8891)
+Completed 200 OK in 16ms (Views: 15.3ms | Allocations: 10312)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:54:48 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 155)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 16.1ms | Allocations: 8892)
+Completed 200 OK in 19ms (Views: 17.7ms | Allocations: 10355)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:57:12 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 155)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 14.7ms | Allocations: 8892)
+Completed 200 OK in 17ms (Views: 16.5ms | Allocations: 10354)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-04 23:59:45 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 155)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 17.8ms | Allocations: 8895)
+Completed 200 OK in 21ms (Views: 19.9ms | Allocations: 10357)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:01:54 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 155)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 22.4ms | Allocations: 8892)
+Completed 200 OK in 26ms (Views: 24.9ms | Allocations: 10350)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:02:59 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 155)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 14.9ms | Allocations: 8891)
+Completed 200 OK in 18ms (Views: 16.5ms | Allocations: 10353)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:04:57 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 157)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 329)
+  Rendered layout layouts/application.html.erb (Duration: 27.6ms | Allocations: 8899)
+Completed 200 OK in 30ms (Views: 29.6ms | Allocations: 10362)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:05:08 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 13.4ms | Allocations: 7943)
+Completed 200 OK in 14ms (Views: 13.9ms | Allocations: 8436)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:05:18 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 158)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 27.5ms | Allocations: 8903)
+Completed 200 OK in 32ms (Views: 31.1ms | Allocations: 10325)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:06:02 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 10.4ms | Allocations: 7933)
+Completed 200 OK in 12ms (Views: 11.0ms | Allocations: 8427)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:12:55 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 158)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 14.5ms | Allocations: 8898)
+Completed 200 OK in 18ms (Views: 17.4ms | Allocations: 10313)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:14:25 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 157)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 23.7ms | Allocations: 8893)
+Completed 200 OK in 28ms (Views: 27.1ms | Allocations: 10355)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:23:35 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 161)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 15.3ms | Allocations: 8897)
+Completed 200 OK in 18ms (Views: 16.8ms | Allocations: 10359)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:25:26 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 161)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 21.7ms | Allocations: 8902)
+Completed 200 OK in 26ms (Views: 24.9ms | Allocations: 10364)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:25:29 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 19.8ms | Allocations: 7948)
+Completed 200 OK in 22ms (Views: 21.4ms | Allocations: 8441)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:26:05 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 161)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.1ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 16.7ms | Allocations: 8897)
+Completed 200 OK in 20ms (Views: 19.5ms | Allocations: 10312)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:27:09 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 160)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 326)
+  Rendered layout layouts/application.html.erb (Duration: 12.8ms | Allocations: 8897)
+Completed 200 OK in 15ms (Views: 14.2ms | Allocations: 10359)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:27:58 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 13.9ms | Allocations: 7923)
+Completed 200 OK in 20ms (Views: 19.8ms | Allocations: 8419)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2021-09-05 00:27:59 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 22ms (ActiveRecord: 9.7ms | Allocations: 5169)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:27:59 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 12.4ms | Allocations: 7927)
+Completed 200 OK in 15ms (Views: 13.6ms | ActiveRecord: 0.0ms | Allocations: 8396)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2021-09-05 00:28:00 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 8ms (ActiveRecord: 0.7ms | Allocations: 1625)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:28:01 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 22.7ms | Allocations: 7925)
+Completed 200 OK in 24ms (Views: 23.9ms | ActiveRecord: 0.0ms | Allocations: 8392)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:28:02 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 11.5ms | Allocations: 7923)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms | Allocations: 8372)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:28:43 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 161)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 23.6ms | Allocations: 8898)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.0ms | Allocations: 10321)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:30:33 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 160)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.6ms | Allocations: 326)
+  Rendered layout layouts/application.html.erb (Duration: 35.9ms | Allocations: 8897)
+Completed 200 OK in 41ms (Views: 40.3ms | ActiveRecord: 0.0ms | Allocations: 10367)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:30:58 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 160)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 326)
+  Rendered layout layouts/application.html.erb (Duration: 15.3ms | Allocations: 8897)
+Completed 200 OK in 17ms (Views: 16.5ms | ActiveRecord: 0.0ms | Allocations: 10367)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2021-09-05 00:31:01 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (5.1ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 15ms (ActiveRecord: 5.1ms | Allocations: 1858)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:31:01 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 13.2ms | Allocations: 7927)
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 8410)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:31:03 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 13.7ms | Allocations: 7923)
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 8375)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:33:50 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 122)
+  Rendered layout layouts/application.html.erb (Duration: 12.9ms | Allocations: 7923)
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms | Allocations: 8372)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:35:56 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 3.3ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 23.3ms | Allocations: 8899)
+Completed 200 OK in 29ms (Views: 27.3ms | ActiveRecord: 0.0ms | Allocations: 10327)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:36:55 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 13.1ms | Allocations: 8898)
+Completed 200 OK in 17ms (Views: 15.6ms | Allocations: 10361)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:37:07 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 17.9ms | Allocations: 8899)
+Completed 200 OK in 24ms (Views: 22.8ms | Allocations: 10361)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:37:38 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 325)
+  Rendered layout layouts/application.html.erb (Duration: 11.1ms | Allocations: 8899)
+Completed 200 OK in 13ms (Views: 12.4ms | Allocations: 10361)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:39:56 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 326)
+  Rendered layout layouts/application.html.erb (Duration: 13.5ms | Allocations: 8903)
+Completed 200 OK in 18ms (Views: 16.5ms | Allocations: 10365)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:41:41 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.3ms | Allocations: 282)
+  Rendered layout layouts/application.html.erb (Duration: 24.5ms | Allocations: 8856)
+Completed 200 OK in 32ms (Views: 29.3ms | Allocations: 10318)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:41:42 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 17.4ms | Allocations: 7906)
+Completed 200 OK in 19ms (Views: 18.6ms | Allocations: 8402)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:41:43 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 102)
+  Rendered layout layouts/application.html.erb (Duration: 38.1ms | Allocations: 7913)
+Completed 200 OK in 40ms (Views: 39.1ms | Allocations: 8363)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2021-09-05 00:41:45 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (1.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."id" = $1 ORDER BY "users"."id" ASC LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 27ms (ActiveRecord: 12.7ms | Allocations: 5154)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:41:45 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 13.4ms | Allocations: 7920)
+Completed 200 OK in 15ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 8389)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:41:47 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 26.3ms | Allocations: 7914)
+Completed 200 OK in 29ms (Views: 27.6ms | ActiveRecord: 0.0ms | Allocations: 8367)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:42:20 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 167)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 282)
+  Rendered layout layouts/application.html.erb (Duration: 15.8ms | Allocations: 8866)
+Completed 200 OK in 18ms (Views: 17.3ms | ActiveRecord: 0.0ms | Allocations: 10295)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:44:23 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 282)
+  Rendered layout layouts/application.html.erb (Duration: 12.3ms | Allocations: 8855)
+Completed 200 OK in 15ms (Views: 13.9ms | ActiveRecord: 0.0ms | Allocations: 10325)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:44:42 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 6.1ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 282)
+  Rendered layout layouts/application.html.erb (Duration: 37.1ms | Allocations: 8855)
+Completed 200 OK in 42ms (Views: 41.1ms | ActiveRecord: 0.0ms | Allocations: 10325)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:46:36 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 30.5ms | Allocations: 7902)
+Completed 200 OK in 33ms (Views: 32.1ms | ActiveRecord: 0.0ms | Allocations: 8399)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:50:52 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.2ms | Allocations: 138)
+  Rendered layout layouts/application.html.erb (Duration: 12.5ms | Allocations: 8193)
+Completed 200 OK in 16ms (Views: 13.9ms | Allocations: 8972)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:52:37 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 164)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 14.1ms | Allocations: 8856)
+Completed 200 OK in 17ms (Views: 15.8ms | Allocations: 10351)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:58:13 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 36.9ms | Allocations: 7902)
+Completed 200 OK in 38ms (Views: 37.7ms | Allocations: 8395)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 00:58:56 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 19.7ms | Allocations: 8855)
+Completed 200 OK in 23ms (Views: 22.6ms | Allocations: 10270)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:00:30 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.9ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 32.3ms | Allocations: 8855)
+Completed 200 OK in 38ms (Views: 37.3ms | Allocations: 10317)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:00:32 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 11.9ms | Allocations: 7902)
+Completed 200 OK in 14ms (Views: 13.1ms | Allocations: 8395)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:00:40 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 20.5ms | Allocations: 8856)
+Completed 200 OK in 23ms (Views: 22.0ms | Allocations: 10272)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:01:24 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 14.7ms | Allocations: 8855)
+Completed 200 OK in 17ms (Views: 16.1ms | Allocations: 10317)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:07:15 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 53.9ms | Allocations: 8855)
+Completed 200 OK in 58ms (Views: 56.6ms | Allocations: 10317)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:07:17 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 27.7ms | Allocations: 7903)
+Completed 200 OK in 30ms (Views: 29.7ms | Allocations: 8396)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:07:32 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 26.4ms | Allocations: 8855)
+Completed 200 OK in 29ms (Views: 28.0ms | Allocations: 10270)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:07:56 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 15.5ms | Allocations: 8855)
+Completed 200 OK in 18ms (Views: 16.8ms | Allocations: 10317)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:08:03 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 3.9ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 24.1ms | Allocations: 8855)
+Completed 200 OK in 28ms (Views: 27.5ms | Allocations: 10323)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:08:20 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 2.6ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.9ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 17.3ms | Allocations: 8854)
+Completed 200 OK in 20ms (Views: 18.7ms | Allocations: 10317)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:11:50 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 18.7ms | Allocations: 8856)
+Completed 200 OK in 23ms (Views: 21.7ms | Allocations: 10318)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:12:36 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 16.9ms | Allocations: 8855)
+Completed 200 OK in 22ms (Views: 20.6ms | Allocations: 10317)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:20:42 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.8ms | Allocations: 163)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 15.8ms | Allocations: 8859)
+Completed 200 OK in 23ms (Views: 21.6ms | Allocations: 10321)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:20:51 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 13.4ms | Allocations: 8855)
+Completed 200 OK in 18ms (Views: 16.5ms | Allocations: 10317)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:32:12 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 10.8ms | Allocations: 285)
+  Rendered layout layouts/application.html.erb (Duration: 35.8ms | Allocations: 8860)
+Completed 200 OK in 46ms (Views: 45.3ms | Allocations: 10323)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:34:22 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.2ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 53.0ms | Allocations: 7916)
+Completed 200 OK in 60ms (Views: 58.5ms | Allocations: 8410)
+
+
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(7524738691768271610)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateCategoryJobs (20210904234732)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (307.0ms)[0m  [1m[35mCREATE TABLE "category_jobs" ("id" bigserial primary key, "category_name" character varying, "category_description" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20210904234732"]]
+  [1m[36mTRANSACTION (61.6ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (26.1ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(7524738691768271610)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:54:39 +0200
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 285)
+  Rendered layout layouts/application.html.erb (Duration: 13.9ms | Allocations: 8852)
+Completed 200 OK in 17ms (Views: 16.1ms | ActiveRecord: 0.0ms | Allocations: 10422)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:55:05 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 7902)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 8398)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 01:55:53 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/category_jobs/index"):
+  
+Started GET "/rails/info/routes?path=ca" for 127.0.0.1 at 2021-09-05 01:56:02 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"ca"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2111)
+
+
+Started GET "/rails/info/routes?path=cate" for 127.0.0.1 at 2021-09-05 01:56:03 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"cate"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 917)
+
+
+Started GET "/rails/info/routes?path=categ" for 127.0.0.1 at 2021-09-05 01:56:04 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"categ"}
+Completed 200 OK in 12ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 917)
+
+
+Started GET "/rails/info/routes?path=category" for 127.0.0.1 at 2021-09-05 01:56:06 +0200
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"category"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 916)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 01:56:45 +0200
+Processing by CategoryJobsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/index.html.erb within layouts/application
+  Rendered category_jobs/index.html.erb within layouts/application (Duration: 0.3ms | Allocations: 140)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 285)
+  Rendered layout layouts/application.html.erb (Duration: 17.2ms | Allocations: 8814)
+Completed 200 OK in 22ms (Views: 19.5ms | ActiveRecord: 0.0ms | Allocations: 10755)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:56:50 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 160)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 135)
+  Rendered layout layouts/application.html.erb (Duration: 27.8ms | Allocations: 8315)
+Completed 200 OK in 33ms (Views: 29.8ms | ActiveRecord: 0.0ms | Allocations: 9608)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 01:56:59 +0200
+Processing by CategoryJobsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/index.html.erb within layouts/application
+  Rendered category_jobs/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 37)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 101)
+  Rendered layout layouts/application.html.erb (Duration: 12.1ms | Allocations: 7901)
+Completed 200 OK in 14ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 8416)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 01:58:00 +0200
+Processing by CategoryJobsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (0.9ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs" /* loading for inspect */ LIMIT $1[0m  [["LIMIT", 11]]
+  Rendered category_jobs/index.html.erb within layouts/application (Duration: 11.7ms | Allocations: 4872)
+  Rendered layout layouts/application.html.erb (Duration: 12.2ms | Allocations: 4946)
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 1.9ms | Allocations: 6355)
+
+
+  
+ActionView::Template::Error (undefined method `category_name' for #<ActiveRecord::Relation []>):
+    2: 
+    3: 
+    4: <%= form_for :category_jobs do | t | %>
+    5:     <%= t.text_field :category_name %>
+    6: <% end%>
+  
+app/views/category_jobs/index.html.erb:5
+app/views/category_jobs/index.html.erb:4
+Started GET "/" for 127.0.0.1 at 2021-09-05 01:58:58 +0200
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.6ms | Allocations: 161)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 35.6ms | Allocations: 8868)
+Completed 200 OK in 39ms (Views: 38.3ms | ActiveRecord: 0.0ms | Allocations: 10348)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 01:59:08 +0200
+Processing by CategoryJobsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (0.9ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs" /* loading for inspect */ LIMIT $1[0m  [["LIMIT", 11]]
+  Rendered category_jobs/index.html.erb within layouts/application (Duration: 7.5ms | Allocations: 4401)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 4475)
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.9ms | Allocations: 5655)
+
+
+  
+ActionView::Template::Error (undefined method `category_name' for #<ActiveRecord::Relation []>):
+    2: 
+    3: 
+    4: <%= form_for :category_jobs do | t | %>
+    5:     <%= t.text_field :category_name %>
+    6: <% end%>
+  
+app/views/category_jobs/index.html.erb:5
+app/views/category_jobs/index.html.erb:4
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 01:59:32 +0200
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by CategoryJobsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (0.8ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs" /* loading for inspect */ LIMIT $1[0m  [["LIMIT", 11]]
+  Rendered category_jobs/index.html.erb within layouts/application (Duration: 14.1ms | Allocations: 4292)
+  Rendered layout layouts/application.html.erb (Duration: 15.1ms | Allocations: 4366)
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.8ms | Allocations: 6240)
+
+
+  
+ActionView::Template::Error (undefined method `category_name' for #<ActiveRecord::Relation []>):
+    2: 
+    3: 
+    4: <%= form_for :category_jobs do | t | %>
+    5:     <%= t.text_field :category_name %>
+    6: <% end%>
+  
+app/views/category_jobs/index.html.erb:5
+app/views/category_jobs/index.html.erb:4
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 02:01:17 +0200
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by CategoryJobsController#index as HTML
+Completed 406 Not Acceptable in 17ms (ActiveRecord: 0.0ms | Allocations: 4187)
+
+
+  
+ActionController::MissingExactTemplate (CategoryJobsController#index is missing a template for request formats: text/html):
+  
+actionpack (6.1.4.1) lib/action_controller/metal/implicit_render.rb:45:in `default_render'
+actionpack (6.1.4.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+<internal:kernel>:90:in `tap'
+actionpack (6.1.4.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (6.1.4.1) lib/abstract_controller/base.rb:228:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (6.1.4.1) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+actiontext (6.1.4.1) lib/action_text/rendering.rb:20:in `with_renderer'
+actiontext (6.1.4.1) lib/action_text/engine.rb:59:in `block (4 levels) in <class:Engine>'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:126:in `instance_exec'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:126:in `block in run_callbacks'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:137:in `run_callbacks'
+actionpack (6.1.4.1) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (6.1.4.1) lib/active_support/notifications.rb:203:in `block in instrument'
+activesupport (6.1.4.1) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (6.1.4.1) lib/active_support/notifications.rb:203:in `instrument'
+actionpack (6.1.4.1) lib/action_controller/metal/instrumentation.rb:33:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/params_wrapper.rb:249:in `process_action'
+activerecord (6.1.4.1) lib/active_record/railties/controller_runtime.rb:27:in `process_action'
+actionpack (6.1.4.1) lib/abstract_controller/base.rb:165:in `process'
+actionview (6.1.4.1) lib/action_view/rendering.rb:39:in `process'
+actionpack (6.1.4.1) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.4.1) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.4.1) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.4.1) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.4.1) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.4.1) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.4.1) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.4.1) lib/action_dispatch/routing/route_set.rb:842:in `call'
+warden (1.2.9) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.9) lib/warden/manager.rb:34:in `catch'
+warden (1.2.9) lib/warden/manager.rb:34:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/http/permissions_policy.rb:22:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/cookies.rb:689:in `call'
+activerecord (6.1.4.1) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.4.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.4.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.4.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.4.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.4.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.4.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.4.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/host_authorization.rb:98:in `call'
+rack-mini-profiler (2.3.3) lib/mini_profiler/profiler.rb:393:in `call'
+webpacker (5.4.2) lib/webpacker/dev_server_proxy.rb:25:in `perform_request'
+rack-proxy (0.7.0) lib/rack/proxy.rb:63:in `call'
+railties (6.1.4.1) lib/rails/engine.rb:539:in `call'
+puma (5.4.0) lib/puma/configuration.rb:249:in `call'
+puma (5.4.0) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.4.0) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.4.0) lib/puma/request.rb:76:in `handle_request'
+puma (5.4.0) lib/puma/server.rb:440:in `process_client'
+puma (5.4.0) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:01:23 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/category_jobs/new"):
+  
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:01:38 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 1.5ms | Allocations: 1115)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 126.5ms | Allocations: 19246)
+Completed 200 OK in 151ms (Views: 129.7ms | ActiveRecord: 15.0ms | Allocations: 24981)
+
+
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:03:20 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 9.0ms | Allocations: 4308)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 256)
+  Rendered layout layouts/application.html.erb (Duration: 28.1ms | Allocations: 12952)
+Completed 200 OK in 31ms (Views: 30.1ms | ActiveRecord: 0.0ms | Allocations: 14506)
+
+
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:03:44 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 0.8ms | Allocations: 596)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 4.9ms | Allocations: 260)
+  Rendered layout layouts/application.html.erb (Duration: 24.0ms | Allocations: 9225)
+Completed 200 OK in 26ms (Views: 25.3ms | ActiveRecord: 0.0ms | Allocations: 10727)
+
+
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:04:22 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 1.1ms | Allocations: 604)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.5ms | Allocations: 256)
+  Rendered layout layouts/application.html.erb (Duration: 11.0ms | Allocations: 9297)
+Completed 200 OK in 15ms (Views: 13.4ms | ActiveRecord: 0.0ms | Allocations: 10813)
+
+
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:05:36 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 1.4ms | Allocations: 818)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 1.0ms | Allocations: 256)
+  Rendered layout layouts/application.html.erb (Duration: 42.3ms | Allocations: 9473)
+Completed 200 OK in 47ms (Views: 46.2ms | ActiveRecord: 0.0ms | Allocations: 10978)
+
+
+Started POST "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:06:02 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/category_jobs/new"):
+  
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:06:53 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 6.0ms | Allocations: 1048)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.4ms | Allocations: 111)
+  Rendered layout layouts/application.html.erb (Duration: 33.4ms | Allocations: 9186)
+Completed 200 OK in 68ms (Views: 39.2ms | ActiveRecord: 10.1ms | Allocations: 13244)
+
+
+Started POST "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:06:56 +0200
+Processing by CategoryJobsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "category_jobs"=>{"category_name"=>"test", "category_description"=>"test"}, "commit"=>"Add new category"}
+Completed 400 Bad Request in 1ms (ActiveRecord: 0.0ms | Allocations: 813)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: category_job
+Did you mean?  category_jobs
+               controller
+               action
+               authenticity_token):
+  
+app/controllers/category_jobs_controller.rb:19:in `category_jobs_params'
+app/controllers/category_jobs_controller.rb:11:in `create'
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:07:32 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 3.6ms | Allocations: 804)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 256)
+  Rendered layout layouts/application.html.erb (Duration: 31.6ms | Allocations: 9498)
+Completed 200 OK in 36ms (Views: 34.4ms | ActiveRecord: 0.0ms | Allocations: 10976)
+
+
+Started POST "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:07:35 +0200
+Processing by CategoryJobsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "category_jobs"=>{"category_name"=>"adadada", "category_description"=>""}, "commit"=>"Add new category"}
+Completed 400 Bad Request in 1ms (ActiveRecord: 0.0ms | Allocations: 727)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: category_job
+Did you mean?  category_jobs
+               controller
+               action
+               authenticity_token):
+  
+app/controllers/category_jobs_controller.rb:19:in `category_jobs_params'
+app/controllers/category_jobs_controller.rb:11:in `create'
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:07:56 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 0.7ms | Allocations: 453)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 89)
+  Rendered layout layouts/application.html.erb (Duration: 15.1ms | Allocations: 8362)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms | Allocations: 8850)
+
+
+Started GET "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:08:07 +0200
+Processing by CategoryJobsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/new.html.erb within layouts/application
+  Rendered category_jobs/new.html.erb within layouts/application (Duration: 1.1ms | Allocations: 1048)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 111)
+  Rendered layout layouts/application.html.erb (Duration: 17.6ms | Allocations: 9185)
+Completed 200 OK in 34ms (Views: 18.6ms | ActiveRecord: 6.2ms | Allocations: 13233)
+
+
+Started POST "/category_jobs/new" for 127.0.0.1 at 2021-09-05 02:08:10 +0200
+Processing by CategoryJobsController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "category_jobs"=>{"category_name"=>"adadad", "category_description"=>"adadadada"}, "commit"=>"Add new category"}
+  [1m[36mTRANSACTION (1.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/category_jobs_controller.rb:12:in `create'
+  [1m[36mCategoryJob Create (1.4ms)[0m  [1m[32mINSERT INTO "category_jobs" ("category_name", "category_description", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["category_name", "adadad"], ["category_description", "adadadada"], ["created_at", "2021-09-05 00:08:10.156385"], ["updated_at", "2021-09-05 00:08:10.156385"]]
+  ↳ app/controllers/category_jobs_controller.rb:12:in `create'
+  [1m[36mTRANSACTION (143.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/category_jobs_controller.rb:12:in `create'
+Redirected to http://localhost:3000/
+Completed 302 Found in 152ms (ActiveRecord: 146.3ms | Allocations: 3568)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 02:08:10 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 168)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 135)
+  Rendered layout layouts/application.html.erb (Duration: 10.9ms | Allocations: 8329)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 9641)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 02:08:25 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 56)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 138)
+  Rendered layout layouts/application.html.erb (Duration: 12.3ms | Allocations: 8214)
+Completed 200 OK in 18ms (Views: 17.0ms | ActiveRecord: 0.0ms | Allocations: 9003)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-05 02:12:02 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 162)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 5.6ms | Allocations: 285)
+  Rendered layout layouts/application.html.erb (Duration: 42.4ms | Allocations: 8907)
+Completed 200 OK in 58ms (Views: 48.5ms | ActiveRecord: 0.0ms | Allocations: 10471)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 02:12:09 +0200
+Processing by CategoryJobsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (2.0ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/index.html.erb:1
+  Rendered category_jobs/index.html.erb within layouts/application (Duration: 24.2ms | Allocations: 4326)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.3ms | Allocations: 135)
+  Rendered layout layouts/application.html.erb (Duration: 35.4ms | Allocations: 12546)
+Completed 200 OK in 40ms (Views: 19.4ms | ActiveRecord: 18.2ms | Allocations: 14187)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 02:13:58 +0200
+Processing by CategoryJobsController#index as HTML
+Completed 406 Not Acceptable in 4ms (ActiveRecord: 0.0ms | Allocations: 2814)
+
+
+  
+ActionController::MissingExactTemplate (CategoryJobsController#index is missing a template for request formats: text/html):
+  
+actionpack (6.1.4.1) lib/action_controller/metal/implicit_render.rb:45:in `default_render'
+actionpack (6.1.4.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `block in send_action'
+<internal:kernel>:90:in `tap'
+actionpack (6.1.4.1) lib/action_controller/metal/basic_implicit_render.rb:6:in `send_action'
+actionpack (6.1.4.1) lib/abstract_controller/base.rb:228:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (6.1.4.1) lib/abstract_controller/callbacks.rb:42:in `block in process_action'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:117:in `block in run_callbacks'
+actiontext (6.1.4.1) lib/action_text/rendering.rb:20:in `with_renderer'
+actiontext (6.1.4.1) lib/action_text/engine.rb:59:in `block (4 levels) in <class:Engine>'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:126:in `instance_exec'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:126:in `block in run_callbacks'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:137:in `run_callbacks'
+actionpack (6.1.4.1) lib/abstract_controller/callbacks.rb:41:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/rescue.rb:22:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/instrumentation.rb:34:in `block in process_action'
+activesupport (6.1.4.1) lib/active_support/notifications.rb:203:in `block in instrument'
+activesupport (6.1.4.1) lib/active_support/notifications/instrumenter.rb:24:in `instrument'
+activesupport (6.1.4.1) lib/active_support/notifications.rb:203:in `instrument'
+actionpack (6.1.4.1) lib/action_controller/metal/instrumentation.rb:33:in `process_action'
+actionpack (6.1.4.1) lib/action_controller/metal/params_wrapper.rb:249:in `process_action'
+activerecord (6.1.4.1) lib/active_record/railties/controller_runtime.rb:27:in `process_action'
+actionpack (6.1.4.1) lib/abstract_controller/base.rb:165:in `process'
+actionview (6.1.4.1) lib/action_view/rendering.rb:39:in `process'
+actionpack (6.1.4.1) lib/action_controller/metal.rb:190:in `dispatch'
+actionpack (6.1.4.1) lib/action_controller/metal.rb:254:in `dispatch'
+actionpack (6.1.4.1) lib/action_dispatch/routing/route_set.rb:50:in `dispatch'
+actionpack (6.1.4.1) lib/action_dispatch/routing/route_set.rb:33:in `serve'
+actionpack (6.1.4.1) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (6.1.4.1) lib/action_dispatch/journey/router.rb:32:in `each'
+actionpack (6.1.4.1) lib/action_dispatch/journey/router.rb:32:in `serve'
+actionpack (6.1.4.1) lib/action_dispatch/routing/route_set.rb:842:in `call'
+warden (1.2.9) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.9) lib/warden/manager.rb:34:in `catch'
+warden (1.2.9) lib/warden/manager.rb:34:in `call'
+rack (2.2.3) lib/rack/tempfile_reaper.rb:15:in `call'
+rack (2.2.3) lib/rack/etag.rb:27:in `call'
+rack (2.2.3) lib/rack/conditional_get.rb:27:in `call'
+rack (2.2.3) lib/rack/head.rb:12:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/http/permissions_policy.rb:22:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/http/content_security_policy.rb:18:in `call'
+rack (2.2.3) lib/rack/session/abstract/id.rb:266:in `context'
+rack (2.2.3) lib/rack/session/abstract/id.rb:260:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/cookies.rb:689:in `call'
+activerecord (6.1.4.1) lib/active_record/migration.rb:601:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/callbacks.rb:27:in `block in call'
+activesupport (6.1.4.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/actionable_exceptions.rb:18:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/debug_exceptions.rb:29:in `call'
+web-console (4.1.0) lib/web_console/middleware.rb:132:in `call_app'
+web-console (4.1.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `catch'
+web-console (4.1.0) lib/web_console/middleware.rb:17:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (6.1.4.1) lib/rails/rack/logger.rb:37:in `call_app'
+railties (6.1.4.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (6.1.4.1) lib/active_support/tagged_logging.rb:99:in `block in tagged'
+activesupport (6.1.4.1) lib/active_support/tagged_logging.rb:37:in `tagged'
+activesupport (6.1.4.1) lib/active_support/tagged_logging.rb:99:in `tagged'
+railties (6.1.4.1) lib/rails/rack/logger.rb:26:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/request_id.rb:26:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (6.1.4.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/static.rb:24:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+actionpack (6.1.4.1) lib/action_dispatch/middleware/host_authorization.rb:98:in `call'
+rack-mini-profiler (2.3.3) lib/mini_profiler/profiler.rb:393:in `call'
+webpacker (5.4.2) lib/webpacker/dev_server_proxy.rb:25:in `perform_request'
+rack-proxy (0.7.0) lib/rack/proxy.rb:63:in `call'
+railties (6.1.4.1) lib/rails/engine.rb:539:in `call'
+puma (5.4.0) lib/puma/configuration.rb:249:in `call'
+puma (5.4.0) lib/puma/request.rb:77:in `block in handle_request'
+puma (5.4.0) lib/puma/thread_pool.rb:340:in `with_force_shutdown'
+puma (5.4.0) lib/puma/request.rb:76:in `handle_request'
+puma (5.4.0) lib/puma/server.rb:440:in `process_client'
+puma (5.4.0) lib/puma/thread_pool.rb:147:in `block in spawn_thread'
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 02:14:56 +0200
+Processing by CategoryJobsController#_index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/_index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (0.8ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:1
+  Rendered category_jobs/_index.html.erb within layouts/application (Duration: 25.5ms | Allocations: 4218)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 20.5ms | Allocations: 285)
+  Rendered layout layouts/application.html.erb (Duration: 68.6ms | Allocations: 12956)
+Completed 200 OK in 82ms (Views: 64.1ms | ActiveRecord: 8.8ms | Allocations: 14872)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 02:15:45 +0200
+Processing by CategoryJobsController#_index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/_index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (2.8ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:1
+  Rendered category_jobs/_index.html.erb within layouts/application (Duration: 8.1ms | Allocations: 1247)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.6ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 30.8ms | Allocations: 9932)
+Completed 200 OK in 34ms (Views: 30.6ms | ActiveRecord: 2.8ms | Allocations: 11412)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 02:16:01 +0200
+Processing by CategoryJobsController#_index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/_index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (0.8ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:1
+  Rendered category_jobs/_index.html.erb within layouts/application (Duration: 5.6ms | Allocations: 1171)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.8ms | Allocations: 281)
+  Rendered layout layouts/application.html.erb (Duration: 29.4ms | Allocations: 9855)
+Completed 200 OK in 35ms (Views: 31.7ms | ActiveRecord: 0.8ms | Allocations: 11338)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-05 02:16:23 +0200
+Processing by CategoryJobsController#_index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/_index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (1.2ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:1
+  Rendered category_jobs/_index.html.erb within layouts/application (Duration: 5.6ms | Allocations: 1147)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 2.2ms | Allocations: 285)
+  Rendered layout layouts/application.html.erb (Duration: 79.7ms | Allocations: 9905)
+Completed 200 OK in 94ms (Views: 87.2ms | ActiveRecord: 1.2ms | Allocations: 11389)
+
+

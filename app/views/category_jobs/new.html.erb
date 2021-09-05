@@ -1,0 +1,8 @@
+<div class = "flex justify-center pt-8">
+  <%= form_for :category_jobs do | t | %>
+    <%= t.label :category_name %>
+    <%= t.text_field :category_name %>
+    <%= t.label :category_description %>
+    <%= t.text_field :category_description %>
+    <%= t.submit "Add new category" %>
+  <% end%>
