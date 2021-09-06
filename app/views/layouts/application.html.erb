@@ -12,10 +12,21 @@
     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
 
-  <body>
+  <body class = "h-full">
     <%= render partial: 'shared/navbar' %>
+
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
+
     <%= yield %>
   </body>
+      <footer>
+        <%= render partial: 'shared/footer' %>
+    </footer>
 </html>
+
+<style>
+  body {
+    height: 100vh;
+  }
+</style>
