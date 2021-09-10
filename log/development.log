@@ -9489,3 +9489,63 @@ Processing by HomeController#index as HTML
 Completed 200 OK in 22ms (Views: 20.6ms | ActiveRecord: 0.9ms | Allocations: 9875)
 
 
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-10 19:37:31 +0200
+Processing by CategoryJobsController#_index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/_index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (1.1ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:4
+  Rendered category_jobs/_index.html.erb within layouts/application (Duration: 20.5ms | Allocations: 4531)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 87)
+  Rendered shared/_footer.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 42.8ms | Allocations: 12594)
+Completed 200 OK in 45ms (Views: 44.4ms | ActiveRecord: 8.8ms | Allocations: 13047)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-10 19:43:58 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered job_offers/_search.html.erb (Duration: 0.1ms | Allocations: 39)
+  [1m[36mCategoryJob Load (1.1ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:4
+  Rendered category_jobs/_index.html.erb (Duration: 33.2ms | Allocations: 4591)
+  Rendered home/index.html.erb within layouts/application (Duration: 34.0ms | Allocations: 4785)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 86)
+  Rendered shared/_footer.html.erb (Duration: 0.1ms | Allocations: 38)
+  Rendered layout layouts/application.html.erb (Duration: 51.2ms | Allocations: 12819)
+Completed 200 OK in 53ms (Views: 52.6ms | ActiveRecord: 19.2ms | Allocations: 13284)
+
+
+Started GET "/" for 127.0.0.1 at 2021-09-10 19:45:03 +0200
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered job_offers/_search.html.erb (Duration: 0.3ms | Allocations: 171)
+  [1m[36mCategoryJob Load (1.4ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:4
+  Rendered category_jobs/_index.html.erb (Duration: 7.5ms | Allocations: 1541)
+  Rendered home/index.html.erb within layouts/application (Duration: 10.5ms | Allocations: 2283)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.7ms | Allocations: 245)
+  Rendered shared/_footer.html.erb (Duration: 0.3ms | Allocations: 108)
+  Rendered layout layouts/application.html.erb (Duration: 31.3ms | Allocations: 11316)
+Completed 200 OK in 35ms (Views: 32.4ms | ActiveRecord: 1.4ms | Allocations: 12772)
+
+
+Started GET "/category_jobs/index" for 127.0.0.1 at 2021-09-10 19:48:42 +0200
+Processing by CategoryJobsController#_index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering category_jobs/_index.html.erb within layouts/application
+  [1m[36mCategoryJob Load (0.7ms)[0m  [1m[34mSELECT "category_jobs".* FROM "category_jobs"[0m
+  ↳ app/views/category_jobs/_index.html.erb:4
+  Rendered category_jobs/_index.html.erb within layouts/application (Duration: 4.9ms | Allocations: 1318)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered shared/_navbar.html.erb (Duration: 0.2ms | Allocations: 96)
+  Rendered shared/_footer.html.erb (Duration: 0.1ms | Allocations: 39)
+  Rendered layout layouts/application.html.erb (Duration: 30.2ms | Allocations: 9655)
+Completed 200 OK in 38ms (Views: 36.5ms | ActiveRecord: 0.7ms | Allocations: 10852)
+
+
