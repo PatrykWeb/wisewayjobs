@@ -1,5 +1,6 @@
 class CategoryJobsController < ApplicationController
-    def _index 
+    def _index
+        @category_job = CategoryJob.all 
     end
 
     def new 

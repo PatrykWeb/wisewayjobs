@@ -9,7 +9,7 @@
           <div class="flex-1 px-6 py-4">
             <h4 class="mb-3 text-xl font-semibold tracking-tight text-gray-800"><%= job.category_name %></h4>
             <p class="leading-normal text-gray-700"><%= job.category_description %></p>
-            <%= link_to "Kliknij, aby otworzyć kategorie", category_jobs_index_path, class: "text-1xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-pink-400 to-red-600" %>
+            <%= link_to "Kliknij, aby otworzyć kategorie", job_offers_path(job.id), class: "text-1xl font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-pink-400 to-red-600" %>
           </div>
         </div>
       <% end %>

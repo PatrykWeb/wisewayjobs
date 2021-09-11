@@ -1,0 +1,7 @@
+<h1>Strona z ofertami
+  <h1>
+    <% if @job_offer.present? %>
+      <%= @job_offer["name"] %>
+    <% else %>
+      <h1>Obecnie nie ma zadnej kategorii</h1>
+    <% end %>
