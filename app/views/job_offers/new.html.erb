@@ -1,0 +1,15 @@
+<h1>Dodaj nowa oferte pracy</h1>
+
+<%= form_for :job_offer do |t| %>
+    <%= t.label :name %>
+    <%= t.text_field :name %>
+    <%= t.label :description %>
+    <%= t.text_field :description %>
+    <%= t.label :salary %>
+    <%= t.text_field :salary %>
+    <%= t.label :city %>
+    <%= t.text_field :city %>
+    <%= t.label :job_category_id %>
+    <%= t.text_field :category_job_id %>
+    <%= t.submit "Dodaj oferte" %>
+<% end %>

@@ -6,5 +6,7 @@ Rails.application.routes.draw do
   get 'category_jobs/index' => 'category_jobs#_index'
   get 'job_offers/search' => 'job_offers#_search'
   get 'job_offers/index/:id' => 'job_offers#index', as: :job_offers
+  post 'job_offers/new' => 'job_offers#create'
+  get 'job_offers/new' => 'job_offers#new'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 end
