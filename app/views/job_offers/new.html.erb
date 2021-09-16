@@ -10,6 +10,6 @@
     <%= t.label :city %>
     <%= t.text_field :city %>
     <%= t.label :job_category_id %>
-    <%= t.text_field :category_job_id %>
+    <%= t.select :category_job_id, CategoryJob.all.collect { |item| [item.category_name, item.id] } %>
     <%= t.submit "Dodaj oferte" %>
 <% end %>
